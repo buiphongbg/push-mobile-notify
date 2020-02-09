@@ -1,0 +1,14 @@
+{
+    "name": "phongbui/mobile-push",
+    "description": "Push notification to mobile app",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phong Bui",
+            "email": "buiphongbg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
